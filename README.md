@@ -12,7 +12,6 @@ Spring Boot 기반의 일정 관리 REST API 프로젝트입니다.
 - Spring Data JPA
 - MySQL 8.x
 - Lombok
-- H2 (개발용 선택 가능)
 - Postman (API 테스트)
 
 ---
