@@ -59,3 +59,7 @@ Content-Type: application/json
   "content": "회의 내용 정리",
   "writerId": "yun10"
 }
+
+## 시연 영상
+
+https://www.youtube.com/watch?v=6_43i6xPlK4
